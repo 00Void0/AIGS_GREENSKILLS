@@ -7,8 +7,8 @@ This repository documents my exploration of AI and Machine Learning (ML) through
 **Key Learning Areas**
 
 **Sustainable AI Development**
-Supervised Learning: Applied regression and classification models (Linear Regression, Decision Trees, Random Forest) for efficient predictions.
-Unsupervised Learning: Explored clustering (K-Means) and dimensionality reduction (PCA, t-SNE) for optimized data usage.
+**Supervised Learning:** Applied regression and classification models (Linear Regression, Decision Trees, Random Forest) for efficient predictions.
+**Unsupervised Learning:** Explored clustering (K-Means) and dimensionality reduction (PCA, t-SNE) for optimized data usage.
 
 **Practical Applications**
 Implemented ML techniques to analyze real-world datasets for resource conservation and efficient data processing.
